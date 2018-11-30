@@ -2,7 +2,7 @@
 
 一、网页预览
 
-![幕淘网](C:\Users\杰克\Desktop\幕淘网.png)
+![幕淘网](https://github.com/YuBaiLian123/MuTaoWeb/blob/master/mutaoimg.png)
 
 二、网页功能简介
 
